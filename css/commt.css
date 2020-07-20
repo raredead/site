@@ -1,5 +1,8 @@
 html {
     background-color: black;
+    width: 70%;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 .zag {
@@ -10,6 +13,11 @@ html {
 
 .header {
     color: floralwhite;
+    margin-top: 7%;
+}
+
+fieldset {
+    border-radius: 30px;
 }
 
 .pole {
@@ -26,6 +34,7 @@ html {
     cursor: pointer;
     width: 100%;
     opacity: 0.9;
+    margin-top: 30px;
 }
 
 .col-4 {
